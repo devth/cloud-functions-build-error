@@ -1,0 +1,9 @@
+.env
+
+node_modules/
+
+.firebaserc
+
+yarn-error.log
+
+firebase-debug.log
