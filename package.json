@@ -8,7 +8,7 @@
   },
   "scripts": {
     "deploy": "NODE_ENV=production firebase deploy",
-    "deploy-fns": "NODE_ENV=production firebase deploy --only functions",
+    "deploy-fns": "NODE_ENV=production firebase deploy --only functions"
   },
   "dependencies": {
     "@devexpress/dx-react-core": "^2.6.2",
