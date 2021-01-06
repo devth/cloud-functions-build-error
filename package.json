@@ -20,7 +20,7 @@
     "@material-ui/lab": "^4.0.0-alpha.55",
     "@mui-treasury/styles": "^0.5.0",
     "@react-hook/window-size": "^3.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "browser-or-node": "^1.2.1",
     "clsx": "^1.0.4",
     "core-js": "^3.2.1",
